@@ -8,27 +8,6 @@
 **PhD @ ENS Paris-Saclay (CIFRE Michelin).**  
 I work on **diffusion** and **VAEs** for **multimodal** generation with **structured latent spaces** , aiming for controllable and coherent multi-component systems.
 
----
-
-### What I work on
-- Diffusion, VAEs, and Attention for probabilistic generation  
-- Multimodal guidance (image ↔ audio), density-ratio signals  
-- Structured latents and evaluation of component coherence
-
----
-
-### Where I like to apply ML
-- **Medical**
-- **Finance**
-- Any domain with challenging, structured problems
-
----
-
-### Toolbox
-`Python` • `PyTorch` • `Keras` • (`NumPy`, `scikit-learn`, `matplotlib`)
-
----
-
 ### Reach out
 📧 **oubarifouad@gmail.com**  
 🎓 **Google Scholar:** https://scholar.google.com/citations?user=GiEnQvYAAAAJ&hl=en

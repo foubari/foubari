@@ -6,7 +6,7 @@
 [![Keras](https://img.shields.io/badge/Keras--orange)](#)
 
 **PhD @ ENS Paris-Saclay (CIFRE Michelin).**  
-I work on **diffusion** and **VAEs** for **multimodal** generation with **structured latent spaces** (e.g., GMRF/Laplacian), aiming for controllable and coherent multi-component systems.
+I work on **diffusion** and **VAEs** for **multimodal** generation with **structured latent spaces** , aiming for controllable and coherent multi-component systems.
 
 ---
 
